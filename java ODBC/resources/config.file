@@ -1,0 +1,4 @@
+user=root
+password=
+url=jdbc:mysql://localhost:3306/escuela
+driver=com.mysql.jdbc.Driver
